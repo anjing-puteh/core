@@ -43,6 +43,7 @@ export const services = (port: number, plugins: EamusePlugin[]) => {
     'eacoin',
     'local',
     'local2',
+	'local3',
     'lobby',
     'lobby2',
     'dlstatus',
